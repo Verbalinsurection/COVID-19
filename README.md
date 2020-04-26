@@ -1,4 +1,7 @@
 # COVID-19
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/de18f53129264c3081b816658d50708e)](https://app.codacy.com/manual/t.stassinopoulos/COVID-19?utm_source=github.com&utm_medium=referral&utm_content=Verbalinsurection/COVID-19&utm_campaign=Badge_Grade_Dashboard)
+
 Download, convert and load COVID-19 information into influxdb.
 This "app" will load the CSV of Covid-19 and convert them for loading into an influxDB.
 As the source is being updated once a day, you should run this app three times a day.
